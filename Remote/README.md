@@ -16,7 +16,7 @@ git pull
 while n>0
     n=n-1
 ```
-```
+```ph
 while n<0
-  n++
+    n++
 ```
